@@ -1,0 +1,35 @@
+// /*--------------------------------*\
+//     $colors
+// \**********************************/
+
+// /**
+// * Branding colors
+// */
+
+$color-brand: #ea83ee;
+$color-secundary: rgb(219,216,121);
+$color-white: #fff;
+
+
+// Texturas
+$color-alert: rgb(252,228,207);
+$color-darkgrey: darken($color-brand, 25%);
+$color-error: rgb(218,79,73);
+$color-info: rgb(66,184,221);
+$color-success: rgb(91,193,91);
+
+
+//Tipografia
+
+$basefont: 'Quicksand', sans-serif;
+$basefontsize: 16px;
+
+$buttoncolor: $color-white;
+$buttonbackgroundcolor: $color-brand;
+$buttonfontsize: $basefontsize * 1.5;
+
+
+// Constantes
+$border-radius: 3px;
+$padding: 24px;
+$page-max-width: 800px;
